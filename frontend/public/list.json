@@ -1,0 +1,91 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Comic Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":3,
+        "name":"Music Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":100,
+        "category": "Entertainment",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":4,
+        "name":"Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":5,
+        "name":"Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":6,
+        "name":"Food Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":88,
+        "category": "Paid",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":7,
+        "name":"Sports Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":10,
+        "category": "Sports",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":8,
+        "name":"Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":9,
+        "name":"Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    },
+    
+    {
+        "id":10,
+        "name":"Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur ",
+        "price":0,
+        "category": "Free",
+        "image":"../../public/card.jpg"
+    }
+]
